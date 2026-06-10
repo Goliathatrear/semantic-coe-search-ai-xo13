@@ -1,4 +1,4 @@
-# 
+# Premium Semantic Code Search scripts. Avec contrôle de version et analyse de documents — optimisé pour des performances et une efficacité maximales.
 
 
 
